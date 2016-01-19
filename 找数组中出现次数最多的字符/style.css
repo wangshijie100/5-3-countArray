@@ -1,0 +1,24 @@
+*{
+	margin；0；
+	padding: 0;
+}
+body{
+	background-image: url(images/array.jpg);
+}
+.wrap{
+	width: 500px;
+	height: 100px;
+	text-align: center;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin:-50px 0 0 -250px;
+}
+.wrap p{
+	margin-bottom: 50px;
+	font-size: 22px;
+}
+.wrap .wrap-btn button{
+	margin:20px;
+	font-size: 18px;
+}
